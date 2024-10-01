@@ -1,0 +1,6 @@
+name: LockStorage
+main: LockStorage\Main
+version: 1.0.0
+api: 5.19.0
+author: RVO-Plugins
+description: A plugin that locks storage containers to the player who placed them.
