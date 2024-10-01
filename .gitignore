@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore PocketMine data folders
+data/
